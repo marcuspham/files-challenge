@@ -1,0 +1,14 @@
+/*
+ * Marcus Pham
+ * INFO 343 Summer 2015
+ * Stylesheet for Stitch website
+ */
+
+body {
+	font-family: Helvetica, sans-serif;
+	font-size: 18px;
+}
+
+img {
+	max-width: 600px;
+}
